@@ -1,0 +1,23 @@
+{
+  "userdetails": [
+    {
+      "user_name": "",
+      "email": "",
+      "password": "",
+      "id": "e048"
+    },
+    {
+      "id": "420b",
+      "user_name": "fdgffhgh",
+      "email": "dsgfdhg@gmail.com",
+      "password": "1534654613"
+    },
+    {
+      "id": "f3f2",
+      "user_name": "ishikakumari",
+      "email": "ishikakumari20@gmail.com",
+      "password": "7894561230"
+    }
+  ],
+  "auth": []
+}
