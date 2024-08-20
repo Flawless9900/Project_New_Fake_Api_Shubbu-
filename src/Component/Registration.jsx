@@ -121,7 +121,7 @@ const Registration = () => {
         return (
             <>
                 <Container>
-                    <h3 className="text-center">Registration</h3>
+                    <h3 className="text-center">Sign Up</h3>
                     <Form onSubmit={handleSubmit}>
                         <Form.Group className="mb-3" controlId="formBasicUsername">
                             <Form.Label>User Name</Form.Label>

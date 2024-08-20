@@ -105,7 +105,7 @@ const LogIn = () => {
         return (
             <div className="h-100 d-flex justify-content-center align-items-center">
                 <div style={{ width: "400px" }}>
-                    <h3 className="">Log in</h3>
+                    <h3 className="">Sign In</h3>
 
                     <Form onSubmit={onsubmitHandler}>
                         <FloatingLabel
